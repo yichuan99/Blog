@@ -5,10 +5,10 @@ date:   2018-03-07 18:47:30 +0000
 categories: container series
 ---
 
-## Why This Series? ##
+## Why This Series? ##  
 Container technology is a hot technology, and if you are in the industry, you have probably heard of "Docker", the current leading tech firm that specialize in container. After a brief research, I believe that this technology will change part of how software works. So starting from now, I will dedicate approximately 60 minutes per week discussing it, and hopefully my discussion can bring you some insights. 
 
-## Why Container? ##
+## Why Container? ## 
 Before diving into why, I want to define a few things. My definitions are nowhere near perfect, but it will help you understand the information I'm trying to convey. 
 
 1. Automation:
