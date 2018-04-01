@@ -12,6 +12,9 @@ This series serves as a work log for my first full stack web application. I want
 2. I want solve problems with the knowledge I learned and the knowledge I will learn.
 3. My school (Rensselaer Polytechnic Institute, aka RPI) doesn't have public course evaluation, and I will change that for the benefit of students. 
 
+#Plan
+
+
 
 
 
