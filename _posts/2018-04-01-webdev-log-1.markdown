@@ -5,15 +5,14 @@ date:   2018-04-01 18:47:30 +0000
 categories: full stack web development series
 ---
 
-#Intro
+## Intro ##
 This series serves as a work log for my first full stack web application. I want to do full stack for following reasons: 
 
 1. I want to see how a web application works from end to end.
 2. I want solve problems with the knowledge I learned and the knowledge I will learn.
 3. My school (Rensselaer Polytechnic Institute, aka RPI) doesn't have public course evaluation, and I will change that for the benefit of students. 
 
-#Plan
-
+## Plan ##
 
 
 
