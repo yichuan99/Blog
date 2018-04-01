@@ -7,7 +7,7 @@ categories: full stack web development series
 
 Up to this point I have read 82% of a book called "A smarter way to learn javascript" by Mark Myers. It took me around 24 hours to get here, basically learning the JavaScript syntax. The new concept that I learn from this book is Document Object Model (DOM). I will finish this book today. 
 
-In order to be able to get better at programmin JS, I will build some small web pages tomorrow. The time estimation is 4 hours. After that I will begin to learn node.js on this site:
+In order to be able to get better at programming JS, I will build some small web pages tomorrow. The time estimation is 4 hours. After that I will begin to learn node.js on this site:
 https://www.udemy.com/understand-nodejs/
 
 This whole node.js course has 13hr10min of videos, and I estimate the offline study to be 125% of videos, so I will spend a total of ~30 hours this week doing it.  
