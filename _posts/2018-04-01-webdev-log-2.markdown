@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/04/01"
+date:   2018-04-01 15:52:30 +0000s
+categories: full stack web development series
+---
+
+Up to this point I have read 82% of a book called "A smarter way to learn javascript" by Mark Myers. It took me around 24 hours to get here, basically learning the JavaScript syntax. The new concept that I learn from this book is Document Object Model (DOM). I will finish this book today. 
+
+In order to be able to get better at programmin JS, I will build some small web pages tomorrow. The time estimation is 4 hours. After that I will begin to learn node.js on this site:
+https://www.udemy.com/understand-nodejs/
+
+This whole node.js course has 13hr10min of videos, and I estimate the offline study to be 125% of videos, so I will spend a total of ~30 hours this week doing it.  
+
+I will break down my learning into following time slots:
+
+Monday    (0 hrs) -- Build a small web page with JS
+
+Tuesday   (0 hrs) -- Finish my deep learning programming assignment
+
+Wednesday (4 hrs)
+
+Thursday  (4 hrs)
+
+Friday    (8 hrs)
+
+Saturday  (6 hrs)
+
+Sunday    (8 hrs)
+
+This is not easy, and I will go full steam ahead for it. The updated plan is here:
+
+## Plan ##
+2018/04/02 -- Finish learning JavaScript basics
+
+2018/04/08 -- Finish learning node.js basic usage.
+
+2018/04/15 -- Finish learning PostgreSQL basic usage.
+
+2018/04/22 -- node.js, PostgreSQL and JavaScript should now be glued together. 
+
+2018/05/01 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/05/08 -- Course search functionality. 
+
+2018/05/15 -- Average work load feature.
+
+2018/05/22 -- Comment section feature.
+
+2018/05/29 -- Relative difficulty feature. 
+
+2018/06/01 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/06/15 -- Finish backend testing.
+
+2018/07/01 -- A user friendly interface. 
+
+2018/07/08 -- Migration to Docker.
+
+2018/07/15 -- Migration to Kubernetes.
+
+2018/07/22 -- End-to-end testing.
+
+2018/07/29 -- System stress test.
+
+2018/08/06 -- Deployment. (expose to public)
+
+2018/08/15 -- Maintainance. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+

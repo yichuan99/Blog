@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Full Stack Web Development -- RPI Public Course Evaluation"
+title:  "RPI Public Course Evaluation -- Introduction"
 date:   2018-04-01 18:47:30 +0000
 categories: full stack web development series
 ---
@@ -13,7 +13,47 @@ This series serves as a work log for my first full stack web application. I want
 3. My school (Rensselaer Polytechnic Institute, aka RPI) doesn't have public course evaluation, and I will change that for the benefit of students. 
 
 ## Plan ##
+The goal is to deploy a fully functional application by 2018/08/15, and here is the time line:
 
+2018/03/25 -- Start
+
+2018/04/01 -- Finish learning JavaScript basics
+
+2018/04/08 -- Finish learning node.js basic usage.
+
+2018/04/15 -- Finish learning PostgreSQL basic usage.
+
+2018/04/22 -- node.js, PostgreSQL and JavaScript should now be glued together. 
+
+2018/05/01 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/05/08 -- Course search functionality. 
+
+2018/05/15 -- Average work load feature.
+
+2018/05/22 -- Comment section feature.
+
+2018/05/29 -- Relative difficulty feature. 
+
+2018/06/01 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/06/15 -- Finish backend testing.
+
+2018/07/01 -- A user friendly interface. 
+
+2018/07/08 -- Migration to Docker.
+
+2018/07/15 -- Migration to Kubernetes.
+
+2018/07/22 -- End-to-end testing.
+
+2018/07/29 -- System stress test.
+
+2018/08/06 -- Deployment. (expose to public)
+
+2018/08/15 -- Maintainance. 
+
+I believe in small and defined progress, and I will use Agile methodology for this application. There will be progress report each week (every Saturday 11:00am EST except for this week), and the plan will be modified accordingly. Let's see how it goes. I'm excited. 
 
 
 
