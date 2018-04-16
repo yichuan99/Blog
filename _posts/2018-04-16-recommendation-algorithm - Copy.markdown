@@ -14,6 +14,10 @@ https://www.zhihu.com/question/19969010
 This pdf also helps:
 http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
 
+Here I found a good tutorial on recommender engine (41-45):
+https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
+
+
 
 
 
