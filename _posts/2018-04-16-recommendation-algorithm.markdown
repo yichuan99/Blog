@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tech maniac"
+title:  "Recommendation Algorithm Discussion"
 date:   2018-04-16 13:38:30 +0000s
 categories: Thoughts
 ---
