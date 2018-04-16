@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/04/07"
+date:   2018-04-07 15:07:30 +0000s
+categories: full stack web development series
+---
+
+I didn't do the first two tutorials mentioned in the previous tutorial because they overlap with with last one. For the last tutorial, I made some good progresses. Up to this point, I finished 30 out of 135 tutorials within 8 hour, which means I can finish the whole thing with another 30 hours or so. Given that I will be very busy next three weeks, I might spend only 8 hour per week. In this case, the overall plan won't be changed: finish this tutorial by 5/9. By the way, I have started designing the UI for my application. I will keep it simple and easy to use. 
+
+I think that relative difficulty might not be a good feature to add, since it is similar to workload per week. 
+
+A new feature that I will consider is course and comment upvote system, just like youtube video voting system where you treat a course as a video. 
+
+Another new idea that comes to my mind is course push algorithm. For each course, my application will push to user some other courses that they might look into. I can implement google's PageRank algorithm to optimize the push. Cool idea!!!
+
+Here is the updated plan (no change):
+
+## Plan ##
+2018/05/09 -- Finish learning node.js basic usage and build some small project to enhance the understanding. 
+
+2018/05/20 -- Finish learning PostgreSQL basic usage.
+
+2018/05/31 -- node.js, PostgreSQL/MongoDB and JavaScript should now be glued together. 
+
+2018/06/07 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/06/14 -- Course search functionality. 
+
+2018/06/22 -- Average work load feature.
+
+2018/06/29 -- Comment section feature.
+
+2018/07/6 -- Relative difficulty feature. 
+
+2018/07/15 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/07/22 -- Finish backend testing.
+
+2018/08/5 -- A user friendly interface. 
+
+2018/08/12-- Migration to Docker.
+
+2018/08/19 -- Migration to Kubernetes.
+
+2018/08/25 -- End-to-end testing.
+
+2018/08/31 -- System stress test.
+
+2018/09/6 -- Deployment. (expose to public)
+
+2018/09/15 -- Maintainance. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
