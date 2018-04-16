@@ -7,5 +7,6 @@ categories: Thoughts
 
 Recommendation system can be built based on similar items. Same principle can be applied to courses: similar courses, prerequisites etc... One thing to do is building a course tree based on RPI's CAPP report.
 
-
+Here is a good link:
+http://catalog.rpi.edu/preview_program.php?catoid=4&poid=727&returnto=88
 
