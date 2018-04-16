@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When it comes to learning a new technology"
+title:  "Tech maniac"
 date:   2018-04-11 15:37:30 +0000s
 categories: Thoughts
 ---
