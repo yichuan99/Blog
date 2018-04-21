@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build Software That Helps A Lot Of People"
-date:   2018-04-16 00:20:30 +0000s
+date:   2018-04-21 00:20:30 +0000s
 categories: thoughts
 ---
 
