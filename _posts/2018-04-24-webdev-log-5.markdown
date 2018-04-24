@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/04/24"
+date:   2018-04-24 10:40:30 +0000s
+categories: full stack web development series
+---
+
+I have covered 61/135 videos in the udemy nodejs tutorial, the progress is normal, and I will keep at it. After this week I should know how to write a simple RESTful application!
+
+Here is the updated plan (no change):
+
+## Plan ##
+2018/05/09 -- Finish learning node.js basic usage and build some small project to enhance the understanding. 
+
+2018/05/20 -- Finish learning PostgreSQL basic usage.
+
+2018/05/31 -- node.js, PostgreSQL/MongoDB and JavaScript should now be glued together. 
+
+2018/06/07 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/06/14 -- Course search functionality. 
+
+2018/06/22 -- Average work load feature.
+
+2018/06/29 -- Comment section feature.
+
+2018/07/6 -- Relative difficulty feature. 
+
+2018/07/15 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/07/22 -- Finish backend testing.
+
+2018/08/5 -- A user friendly interface. 
+
+2018/08/12-- Migration to Docker.
+
+2018/08/19 -- Migration to Kubernetes.
+
+2018/08/25 -- End-to-end testing.
+
+2018/08/31 -- System stress test.
+
+2018/09/6 -- Deployment. (expose to public)
+
+2018/09/15 -- Maintainance. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
