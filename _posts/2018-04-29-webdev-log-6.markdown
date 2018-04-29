@@ -40,98 +40,69 @@ Finish a wrap up blog post. (this blog should be GOOD, use stuff from your own b
 ## Day-By-Day Plan: ##
 
 ### 4/29: ###
-
-One leetcode question
- 
-Finish all econ problem sets and labs, email TA about review quizzes. 
-
-Finish the GOOD RCOS wrap-up blog post.
-
-Capstone meet 3~6 AT MOST.
-
-Ask help on Deep learning HW8, get the basic idea, spend 2 hr understand the concept. 
+1. One leetcode question
+2. Finish all econ problem sets and labs, email TA about review quizzes. 
+3. Finish the GOOD RCOS wrap-up blog post.
+4. Capstone meet 3~6 AT MOST.
+5. Ask help on Deep learning HW8, get the basic idea, spend 2 hr understand the concept. 
 
 ### 4/30 ###
-One leetcode question 
-
-Finish the DL HW8, at least Q1. Attempt Q2 or ask for help. 
+1. One leetcode question 
+2. Finish the DL HW8, at least Q1. Attempt Q2 or ask for help. 
 
 ### 5/1 ### 
-One leetcode question 
-
-RCOS group meeting
-
-DL final project full day
-
-Some capstone stuff to be done
+1. One leetcode question 
+2. RCOS group meeting
+3. DL final project full day
+4. Some capstone stuff to be done
 
 ### 5/3 ###
-
-One leetcode question 
-
-DL final project full day
-
-Some capstone stuff to be done
+1. One leetcode question 
+2. DL final project full day
+3. Some capstone stuff to be done
 
 ### 5/4 ###
-
-One leetcode question 
-
-DL final project full day
+1. One leetcode question 
+2. DL final project full day
 
 ### 5/5 ###
-
-One leetcode question 
-
-DL final project full day
+1. One leetcode question 
+2. DL final project full day
 
 ### 5/6 ###
-
-One leetcode question 
-
-DL final project full day and submission
+1. One leetcode question 
+2. DL final project full day and submission
 
 ### 5/7 ###
-One leetcode question 
-
-ECON review full day 6 hrs type I work
+1. One leetcode question 
+2. ECON review full day 6 hrs type I work
 
 ### 5/8 ###
-One leetcode question 
-
-ECON review full day 6 hrs type I work
+1. One leetcode question 
+2. ECON review full day 6 hrs type I work
 
 ### 5/9 ###
-One leetcode question 
-
-ECON review full day 6 hrs type I work
+1. One leetcode question 
+2. ECON review full day 6 hrs type I work
 
 ### 5/10 ###
-One leetcode question 
-
-ECON review, and final exam
+1. One leetcode question
+2. ECON review, and final exam
 
 ### 5/11 ###
-One leetcode question 
-
-nodejs 10 videos
-
-Leave campus
+1. One leetcode question 
+2. nodejs 10 videos
+3. Leave campus
 
 ### 5/12 ###
-One leetcode question 
-
-nodejs 10 videos
-
-Random movement
+1. One leetcode question 
+2. nodejs 10 videos
+3. Random movement
 
 ### 5/13 ###
-One leetcode question 
-
-nodejs 10 videos
-
-Fly back home
-
+1. One leetcode question 
+2. nodejs 10 videos
+3. Fly back home
 
 ### Conclustion ###
 It will be hard to squeeze time out of such a tight time plan. I will learn nodejs whenever I finish something earlier than expected. Let's rock and roll!
