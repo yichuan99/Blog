@@ -1,0 +1,150 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/04/24"
+date:   2018-04-24 10:40:30 +0000s
+categories: full stack web development series
+---
+
+I have covered 90/135 videos in the udemy nodejs tutorial, the progress is normal, and I will keep at it. I have finished making a basic RESTful API that can perform CRUD operations on MongoDB. I also learned basic usage of GET,POST,DELETE,PATCH commands in HTTP. I have also covered the hash/salt part in authentication and header tokens. I will keep working on this tutorial and by end of next Sunday (5/6) I should finish the authentication (user sign up/log in) part of the course. The goal is to finish 105/135 of the videos by 5/6. 
+
+The final week is coming up, and there is nearly no time for me to focus on the app build. If I were to put all my effort into the nodejs course, I should be able to cover all 135 videos within a week.
+
+There are several big school things that will happen during next week: (4/29~5/6)
+
+Capstone Course Wrap up:
+A final presentation
+A 80 pages paper (8 people working collectively)
+A poster session 
+
+Deep Learning course wrap up:
+A final home work that worth 10% of total grade (due 5/1) (ask help, finish within 6 hrs)
+A final project that worth 20% of total grade (due 5/8) (ask help, finish within 3 days/ 20 hours)
+
+Econometric course wrap up:
+X 3~4 problem Sets due on 4/30 (finish within 4 hrs)
+X A Lab report due on 4/30 (finish within 2 hrs)
+X Email TA about two missing review quizzes (important) (due 4/30) (email, review, appointment, finish within 3 hrs total)
+X Final exam coming up on 5/10 (the last school thing), calculator allowed, need at least 18 hours of review. 
+
+RCOS course wrap up:
+X Attend the last group meeting (5/1) (1hr)
+X Finish a wrap up blog post. (this blog should be GOOD, use stuff from your own blogs)(30 min)
+
+Day-By-Day Plan:
+
+4/29:
+One leetcode question 
+Finish all econ problem sets and labs, email TA about review quizzes. 
+Finish the GOOD RCOS wrap-up blog post.
+Capstone meet 3~6 AT MOST.
+Ask help on Deep learning HW8, get the basic idea, spend 2 hr understand the concept. 
+
+4/30
+One leetcode question 
+Finish the DL HW8, at least Q1. Attempt Q2 or ask for help. 
+
+5/1 
+One leetcode question 
+RCOS group meeting
+DL final project full day
+Some capstone stuff to be done
+
+5/3
+One leetcode question 
+DL final project full day
+Some capstone stuff to be done
+
+5/4
+One leetcode question 
+DL final project full day
+
+5/5
+One leetcode question 
+DL final project full day
+
+5/6
+One leetcode question 
+DL final project full day and submission
+
+5/7
+One leetcode question 
+ECON review full day 6 hrs type I work
+
+5/8 
+One leetcode question 
+ECON review full day 6 hrs type I work
+
+5/9
+One leetcode question 
+ECON review full day 6 hrs type I work
+
+5/10 
+One leetcode question 
+ECON review, and final exam
+
+5/11
+One leetcode question 
+nodejs 10 videos
+Leave campus
+
+5/12
+One leetcode question 
+nodejs 10 videos
+Random movement
+
+5/13
+One leetcode question 
+nodejs 10 videos
+Fly back home
+
+It will be hard to squeeze time out of such a tight time plan. I will learn nodejs whenever I finish something earlier than expected. Let's rock and roll!
+
+Here is the updated plan (no change):
+
+## Plan ##
+2018/05/09 -- Finish learning node.js basic usage and build some small project to enhance the understanding. 
+
+2018/05/20 -- Finish learning PostgreSQL basic usage.
+
+2018/05/31 -- node.js, PostgreSQL/MongoDB and JavaScript should now be glued together. 
+
+2018/06/07 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/06/14 -- Course search functionality. 
+
+2018/06/22 -- Average work load feature.
+
+2018/06/29 -- Comment section feature.
+
+2018/07/6 -- Relative difficulty feature. 
+
+2018/07/15 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/07/22 -- Finish backend testing.
+
+2018/08/5 -- A user friendly interface. 
+
+2018/08/12-- Migration to Docker.
+
+2018/08/19 -- Migration to Kubernetes.
+
+2018/08/25 -- End-to-end testing.
+
+2018/08/31 -- System stress test.
+
+2018/09/6 -- Deployment. (expose to public)
+
+2018/09/15 -- Maintainance. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
