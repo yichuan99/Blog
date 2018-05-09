@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "RPI Public Course Evaluation -- Progress Report 2018/04/29"
-date:   2018-04-29 12:40:30 +0000s
+title:  "RPI Public Course Evaluation -- Progress Report 2018/05/08"
+date:   2018-05-08 23:35:30 +0000s
 categories: full stack web development series
 ---
+
+I'm sorry for the late update. This update should be posted on Sunday, which is two days earlier. I will make sure to post it regardless of the workload on that day. I will keep my work on update under 10 minutes so that I know I can just do it anytime easily. 
 
 I didn't make progress on my Node.js learning due to my school workload. However, I do find some other relevant stuff that might be useful for me in the future. LevelDB, a single machine light-weight k-v value store database, is a really interesting thing. It's is interesting in several ways:
 1. It's a light weight database that can store up to 1TB data. 
