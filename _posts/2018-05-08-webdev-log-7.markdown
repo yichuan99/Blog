@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/04/29"
+date:   2018-04-29 12:40:30 +0000s
+categories: full stack web development series
+---
+
+I didn't make progress on my Node.js learning due to my school workload. However, I do find some other relevant stuff that might be useful for me in the future. LevelDB, a single machine light-weight k-v value store database, is a really interesting thing. It's is interesting in several ways:
+1. It's a light weight database that can store up to 1TB data. 
+2. It's written in C++ with very nice documentation. 
+3. It's the building block of BigTable, Google's proprietary distributed storage system. 
+4. It's written by Jeff Dean. 
+
+LevelDB is a great for me in several ways:
+1. Learn to read some complex code
+2. State of the art KV store. (then to Facebook's RocksDB)
+3. Learn about good code. (style, architecture...)
+4. Database is cool
+
+### 5/10 ###
+1. One leetcode question
+2. ECON review, and final exam
+
+### 5/11 ###
+1. One leetcode question 
+2. nodejs 10 videos
+3. Leave campus
+
+### 5/12 ###
+1. One leetcode question 
+2. nodejs 10 videos
+3. Random movement
+
+### 5/13 ###
+1. One leetcode question 
+2. nodejs 10 videos
+3. Fly back home
+
+### Conclustion ###
+It will be hard to squeeze time out of such a tight time plan. I will learn nodejs whenever I finish something earlier than expected. Let's rock and roll!
+
+## Updated Plan##
+2018/05/13 -- Finish learning node.js basic usage and build some small project to enhance the understanding. 
+
+2018/05/20 -- Finish learning PostgreSQL basic usage.
+
+2018/05/31 -- node.js, PostgreSQL/MongoDB and JavaScript should now be glued together. 
+
+2018/06/07 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/06/14 -- Course search functionality. 
+
+2018/06/22 -- Average work load feature.
+
+2018/06/29 -- Comment section feature.
+
+2018/07/6 -- Relative difficulty feature. 
+
+2018/07/15 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/07/22 -- Finish backend testing.
+
+2018/08/5 -- A user friendly interface. 
+
+2018/08/12-- Migration to Docker.
+
+2018/08/19 -- Migration to Kubernetes.
+
+2018/08/25 -- End-to-end testing.
+
+2018/08/31 -- System stress test.
+
+2018/09/6 -- Deployment. (expose to public)
+
+2018/09/15 -- Maintainance. 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
