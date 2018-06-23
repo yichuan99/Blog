@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "RPI Public Course Evaluation -- Progress Report 2018/05/16"
-date:   2018-05-16 20:51:30 +0000s
+title:  "RPI Public Course Evaluation -- Progress Report 2018/06/22"
+date:   2018-6-22 20:51:30 +0000s
 categories: full stack web development series
 ---
 
