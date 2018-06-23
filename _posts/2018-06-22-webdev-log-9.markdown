@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "RPI Public Course Evaluation -- Progress Report 2018/05/16"
+date:   2018-05-16 20:51:30 +0000s
+categories: full stack web development series
+---
+
+I didn't make much progress during the past month due to home visith and new home moving. I know it's a long time gap and I have a lot to catch up. First of all, the original plan might not be doable according to my current standing. I will, however, restart on working my web application. Today I finished 91st video of node.js tutorial, and will continue on spending 135min per day studying that. With that in mind, the I should be able to reach 135/135 in 7 days. 
+
+Also, I might cut off some feature due to time constraint, and migration to Docker and K8s will be around September/October 2018.  
+
+## Updated Plan##
+2018/6/29 -- Finish learning node.js basic usage and build some small project to enhance the understanding. Finish the book "SQL in 10 minutes"
+
+2018/07/15 -- node.js, PostgreSQL/MongoDB and JavaScript should now be glued together. 
+
+2018/07/30 -- A backend framework with all the modules integrated. (a full stack) This thing should now run on an AWS server. The course catalog should be done. 
+
+2018/08/07 -- Course search functionality. 
+
+2018/08/11 -- Average work load feature.
+
+2018/08/25 -- Comment section feature.
+
+(Cancelled) 2018/07/6 -- Relative difficulty feature. 
+
+2018/09/01 -- A prototype application with all core functionalites. (course search, comment system, average hr/week rating, relative difficulty). These functions should be available through a barebone user interface. 
+
+2018/09/8 -- Finish backend testing.
+
+2018/09/15 -- A user friendly interface. 
+
+2018/09/22 -- End-to-end testing.
+
+2018/09/25 -- System stress test.
+
+2018/09/28 -- Deployment. (expose to public)
+
+2018/10/01 -- Migration to Docker.
+
+2018/10/18 -- Migration to Kubernetes.
+
+2018/10/20 -- User feedback and maintance. 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
